@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857398227410",
+    "project_id": "myapp-abhi-flutter-project",
+    "storage_bucket": "myapp-abhi-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857398227410:android:a93a2d5bd444a32e5c180b",
+        "android_client_info": {
+          "package_name": "com.abhiApp.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857398227410-rbcq030g3ctv107k9ejf8kmo6qkth7o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9HR1jFzwwz5FGJyA8H1a27OWzJxNZ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857398227410-rbcq030g3ctv107k9ejf8kmo6qkth7o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
